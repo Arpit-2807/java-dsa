@@ -21,14 +21,14 @@ in Java while preparing for software engineering interviews.
 
 | Topic | Problems Solved |
 |-------|-----------------:|
-| Arrays | 15 |
-| Strings | 10 |
-| Linked List | 8 |
-| Stack & Queue | 8 |
-| Trees | 5 |
-| Graphs | 3 |
-| Dynamic Programming | 2 |
-| **Total** | **51** |
+| Arrays | 0 |
+| Strings | 0 |
+| Linked List | 0 |
+| Stack & Queue | 0 |
+| Trees | 0 |
+| Graphs | 0 |
+| Dynamic Programming | 0 |
+| **Total** | **0** |
 
 ## Approach
 
