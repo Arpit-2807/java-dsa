@@ -21,7 +21,7 @@ in Java while preparing for software engineering interviews.
 
 | Topic | Problems Solved |
 |-------|-----------------:|
-| Arrays | 1 |
+| Arrays | 13 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack & Queue | 0 |
